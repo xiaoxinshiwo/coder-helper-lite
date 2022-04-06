@@ -13,7 +13,9 @@
 1. colne project到本地
 2. 修改项目application/ding_helper/app_info_config.py配置，将上面采集到的`cropId、appKey、appSecret`三个参数复制修改
 3. 运行命令`pip install -r requirements.txt` 安装依赖
-4. 运行命令 `gunicorn -w 4 app:app &`运行项目 ginicorn安装参考：https://gunicorn.org/
+4. 运行命令 `gunicorn -w 4 app:app &`运行项目， ginicorn安装参考：https://gunicorn.org/
+5. 或者不用其他服务器发布，直接运行` python app.py`一样可以启动（可选）
+6. 配置域名或者通过内网穿透工具来提供域名
 
 # 发布钉钉机器人
 **填写服务出口ip和消息接收地址**
