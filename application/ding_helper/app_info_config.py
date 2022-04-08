@@ -7,7 +7,7 @@
 def get_config():
     return {
         "ding6a097b349ef5b661acaaa37764f94726": {
-            "desc": "小新的公司",
+            "desc": "小新的公司-猿小蜜",
             "appKey": "dingdugn9oiynlbywzo2",
             "appSecret": "G9SRWnzPOc6MVrG6rjdKI6BWAcHJqhNAGoPXodAlIv6Mb5q-LtDZ6KeE0D5QGux2"
         }
