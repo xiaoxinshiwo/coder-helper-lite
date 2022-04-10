@@ -8,7 +8,8 @@
 <img width="590" alt="image" src="https://user-images.githubusercontent.com/24218496/161930778-88f5c362-54d8-4962-bf02-e2783bbb02cb.png">
 <img width="553" alt="image" src="https://user-images.githubusercontent.com/24218496/161930889-b5042fcc-04d4-42dc-9b2e-84a84bf21377.png">
 <img width="1299" alt="image" src="https://user-images.githubusercontent.com/24218496/161931036-f8fd7f65-1c96-4a1b-8385-a43749cdda9f.png">
-
+# 环境
+python >=3.8
 # 启动项目
 1. colne project到本地
 2. 修改项目application/ding_helper/app_info_config.py配置，将上面采集到的`cropId、appKey、appSecret`三个参数复制修改
